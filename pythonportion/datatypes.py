@@ -37,7 +37,7 @@ nics_cars = [
     {"make": "Chevy",
     "model": "Impala",
     "year": "2011"
-    }
+    },
 
     {"make": "Chevy",
      "model": "Blazer",
@@ -45,3 +45,8 @@ nics_cars = [
      }
 ]
 
+if nics_cars == []:
+    print("This list is empty")
+else:
+    print("This list is not empty")
+    print(nics_cars[0]["make"] + " " + nics_cars[0]["model"])
