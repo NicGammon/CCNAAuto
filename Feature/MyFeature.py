@@ -24,3 +24,4 @@ class MyFeature:
 if __name__ == "__main__":
     feature = MyFeature()
     feature.execute()
+    print("Welcom to CCNA Automate")
