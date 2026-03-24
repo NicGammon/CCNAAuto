@@ -28,3 +28,8 @@ created_list = [1,
 print(created_list)
 print(sys.getsizeof(created_list))
 
+my_dict = {
+    "first_name" : "Nic",
+    "last_name" : "G",
+    "age" : 35,
+}
