@@ -17,3 +17,6 @@ good_stuff = True
 bad_stuff = False
 
 print(good_stuff == bad_stuff)
+
+just_variable = 12
+another_variable = None
