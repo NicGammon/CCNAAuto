@@ -33,3 +33,15 @@ my_dict = {
     "last_name" : "G",
     "age" : 35,
 }
+nics_cars = [
+    {"make": "Chevy",
+    "model": "Impala",
+    "year": "2011"
+    }
+
+    {"make": "Chevy",
+     "model": "Blazer",
+     "year": "2024"
+     }
+]
+
