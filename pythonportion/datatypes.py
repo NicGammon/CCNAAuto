@@ -12,3 +12,8 @@ print(first_float)
 first_string = "Hello, world!"
 print(first_string)
 print(first_string + "87")
+
+good_stuff = True
+bad_stuff = False
+
+print(good_stuff == bad_stuff)
